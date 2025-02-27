@@ -1,4 +1,4 @@
-# DeepLearningTasks
+# Deep Learning Tasks
 
 A collection of three deep learning tasks implemented in Python. Each task (folder) includes a report in PDF format presenting the results and insights gained from experimentation.
 
